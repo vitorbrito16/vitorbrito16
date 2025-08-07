@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vitorbrito16 ou Vitor Matheus Araujo Brito
-- 👀 I’m interested in automação, engenharia elétrica e tudo que torna nosso trabalho fácil, eficiente e benéfico!
-- 🌱 I’m currently learning Python e React.js
-- 💞️ I’m looking to collaborate on Coelba - Núcleo de Dados e indicadores
-- 📫 How to reach me vitor.abrito@neoenergia.com
+- 👋 Olá, Sou Vitor Brito
+- 👀 Sou interessado em automação, engenharia elétrica e tudo que torna nosso trabalho fácil, eficiente e benéfico!
+- 🌱 Ativo estudando de tecnologias de desenvolvimento web, especialmente Next.js e Nest.js.
+- 💞️ Sou colaborador da Neoenergia Coelba.
+- 📫 Contate-me através do e-mail vitor.abrito@neoenergia.com
